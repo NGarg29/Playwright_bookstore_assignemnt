@@ -1,0 +1,30 @@
+{
+  "name": "playwright_bookstore_assignemnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGarg29/Playwright_bookstore_assignemnt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NGarg29/Playwright_bookstore_assignemnt/issues"
+  },
+  "homepage": "https://github.com/NGarg29/Playwright_bookstore_assignemnt#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3",
+    "allure-playwright": "^3.2.1",
+    "playwright": "^1.52.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
